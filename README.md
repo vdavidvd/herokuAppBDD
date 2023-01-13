@@ -18,3 +18,6 @@ To start this project you need to have Java version 11 or higher, Maven installe
 if you want to start this project in command prompt then you need to position yourself in the project directory where pom.xml is presented and open there
 command promp and run command mvn test. After that project will start and when all tests are finished you will get Cucumber HTML report opened in your 
 default browser.
+
+This is screenshot of the report:
+![herokuAppReport](https://user-images.githubusercontent.com/97592838/212361963-3575aaff-5873-4760-bdca-d077d4e16bf8.PNG)
